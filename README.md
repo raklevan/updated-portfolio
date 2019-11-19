@@ -20,7 +20,7 @@ Personal webpage
 ​![Image](screenshot1.jpeg)
 ​![Image](screenshot3.jpeg)
 ​![Image](screenshot4.jpeg)
-​![Image](untitled.jpeg)
+​![Image](Untitled.jpeg)
 
 
 ​
