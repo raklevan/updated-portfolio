@@ -9,7 +9,7 @@
 - [Link](#Link)
 ​
 ### Description
-a weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities
+Personal webpage 
 ​
 ### Technologies-Libraries
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
